@@ -15,7 +15,7 @@ If you have a *root server*, *vServer* or for whatever reason you got a static I
 
 # Configure static IP(s)
 
-## Debian / Ubuntu / Rasphian
+## Debian / Ubuntu / Raspbian
 
 ### Static IPv4 address
 After installing the operating system it often gets its IPv4 adress via DHCP. To avoid trouble in the future this address should be static in most cases.
